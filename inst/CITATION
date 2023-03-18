@@ -1,0 +1,14 @@
+citHeader("To cite cacc20212040 in publications use:")
+
+citEntry(
+  entry    = "Manual",
+  title    = "cacc: Central America climate change",
+  author   = "Manuel Spínola",
+  note     = "R package version 0.1.0",
+  year     = "2023",
+  url      = "https://github.com/ManuelSpinola/cacc20212040",
+  textVersion = paste("Manuel Spínola (2023).",
+                "cacc20212040: Central America climate change for 2021-2040.",
+                "R package version 0.1.0.",
+                "Available at https://github.com/ManuelSpinola/crcc.")
+)
